@@ -1,0 +1,13 @@
+numpy==1.26.4
+scipy==1.12.0
+matplotlib==3.8.3
+scikit-learn==1.4.1.post1
+h5py==3.10.0
+scikit-image==0.22.0
+requests==2.34.2
+
+# torch: no strict version required, both CPU and CUDA builds work.
+# Tested with 2.14.0+cpu and 2.1.2+cu118; install per your platform, e.g.:
+#   pip install torch          (CPU or CUDA, auto-detected by pip's wheel index)
+#   pip install torch --index-url https://download.pytorch.org/whl/cu121   (explicit CUDA)
+torch>=2.2.1
