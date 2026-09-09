@@ -180,7 +180,7 @@ If you use this software in your research, please cite:
 
 If citing the software itself, please use:
 
-> [Your Name] ([Year]). [Software name] (v1.0.0). Zenodo. https://doi.org/[Zenodo DOI]
+> VladyslavGapyak (2026) “VladyslavGapyak/MPISuperRes-PnP: MPISuperRes-PnP”. Zenodo. Available at: https://doi.org/10.5281/zenodo.22670938.
 
 
 ## License
