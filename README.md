@@ -194,5 +194,4 @@ If you use the datasets downloaded by this repository in your publication, pleas
 
 - **MPI-MNIST**: Iske, M., Albers, H., Kluth, T., & Knopp, T. (2025). *MPI-MNIST Dataset* [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.12799417
 - **OpenMPI**: Knopp, T., Szwargulski, P., Griese, F., Gräser, M. (2020). *OpenMPIData: An initiative for freely accessible magnetic particle imaging data*, [Data in Brief], Volume 28, February 2020, 104971. https://doi.org/10.1016/j.dib.2019.104971.
-- **Anisotropy**: Knopp, T.,  Scheffler, K. (2024). *MPIData: EquilibriumModelWithAnisotropy* [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.10646064
-Data: EquilibriumModelWithAnisotropy* [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.10646064
+- **Anisotropy**: Knopp, T.,  Scheffler, K. (2024). *MPIData: EquilibriumModelWithAnisotropy* [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.10646064.
