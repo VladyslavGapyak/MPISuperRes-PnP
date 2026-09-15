@@ -4,7 +4,7 @@ This repository contains the code for the MPISuperRes-PnP algorithm, a super-res
 
 The methods corresponding to this repository are described in the associated publication:
 
-
+> Gapyak V., März T., Weinmann A. (2026). MPISuperRes-PnP: A Super-Resolution Zero-Shot Plug-and-Play Reconstruction Algorithm for Magnetic Particle Imaging. *Physics in Medicine & Biology*. DOI: 10.1088/1361-6560/aea518
 
 
 # Installation
@@ -174,13 +174,13 @@ We appropriately provide the reference to the *deep denoiser prior* by Zhang et 
 This part of the code is licensed under MIT (Copyright (c) 2020 Kai Zhang). The original license is included at `.\utils\clfunc_MPI2Dreco_sm\models\LICENSE.txt`.
 
 ## Citation
-If you use this software in your research, please cite:
+If you use this software in your research, please cite it as
 
-> Gapyak et al. (2026). MPISuperRes-PnP: A Super-Resolution Zero-Shot Plug-and-Play Reconstruction Algorithm for Magnetic Particle Imaging. *Physics in Medicine & Biology*. 
+> Gapyak, V., März, T., & Weinmann, A. (2026). MPISuperRes-PnP (Version v1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.22670938
 
-If citing the software itself, please use:
+and the related paper as
 
-> VladyslavGapyak (2026) “VladyslavGapyak/MPISuperRes-PnP: MPISuperRes-PnP”. Zenodo. Available at: https://doi.org/10.5281/zenodo.22670938.
+> Gapyak V., März T., Weinmann A. (2026). MPISuperRes-PnP: A Super-Resolution Zero-Shot Plug-and-Play Reconstruction Algorithm for Magnetic Particle Imaging. *Physics in Medicine & Biology*. DOI: 10.1088/1361-6560/aea518
 
 
 ## License
@@ -190,7 +190,7 @@ Note: the `[.\utils\clfunc_MPI2Dreco_sm\models\]` subdirectory contains third-pa
 
 ## References
 
-If you use the datasets downloaded by this repository, please also cite the corresponding original sources:
+If you use the datasets downloaded by this repository in your publication, please cite the corresponding original sources:
 
 - **MPI-MNIST**: Iske, M., Albers, H., Kluth, T., & Knopp, T. (2025). *MPI-MNIST Dataset* [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.12799417
 - **OpenMPI**: Knopp, T., Szwargulski, P., Griese, F., Gräser, M. (2020). *OpenMPIData: An initiative for freely accessible magnetic particle imaging data*, [Data in Brief], Volume 28, February 2020, 104971. https://doi.org/10.1016/j.dib.2019.104971.
