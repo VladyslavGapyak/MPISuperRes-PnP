@@ -4,7 +4,7 @@ This repository contains the code for the MPISuperRes-PnP algorithm, a super-res
 
 The methods corresponding to this repository are described in the associated publication:
 
-> Gapyak V., März T., Weinmann A. (2026). MPISuperRes-PnP: A Super-Resolution Zero-Shot Plug-and-Play Reconstruction Algorithm for Magnetic Particle Imaging. *Physics in Medicine & Biology*. DOI: https://doi.org/10.1088/1361-6560/aea518
+> Gapyak, V., März, T. and Weinmann, A. (2026) “MPISuperRes-PnP: a super-resolution zero-shot plug-and-play reconstruction algorithm for magnetic particle imaging,” Physics in Medicine & Biology, Vol. 71 N.19, p. 195033. DOI: https://doi.org/10.1088/1361-6560/aea518.
 
 
 # Installation
@@ -180,7 +180,19 @@ If you use this software in your research, please cite it as
 
 and the related paper as
 
-> Gapyak V., März T., Weinmann A. (2026). MPISuperRes-PnP: A Super-Resolution Zero-Shot Plug-and-Play Reconstruction Algorithm for Magnetic Particle Imaging. *Physics in Medicine & Biology*. DOI: https://doi.org/10.1088/1361-6560/aea518
+```
+@article{gapyak2026mpissuperres,
+doi = {10.1088/1361-6560/aea518},
+year = {2026},
+month = {10},
+publisher = {IOP Publishing},
+volume = {71},
+number = {19},
+pages = {195033},
+author = {Gapyak, Vladyslav and März, Thomas and Weinmann, Andreas},
+title = {MPISuperRes-PnP: a super-resolution zero-shot plug-and-play reconstruction algorithm for magnetic particle imaging},
+journal = {Physics in Medicine & Biology},}
+```
 
 
 ## License
